@@ -28,8 +28,8 @@ const CONFIG = {
             secretAnswer: "Ich mag dich nicht, Ich Liebe dich! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "Wie viel Liebst du mich?",                          // For the love meter
+            startText: "So viel!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
